@@ -1,0 +1,9 @@
+{
+  "name": "website-template-tools",
+  "type": "module",
+  "private": true,
+  "description": "Dev-only tooling for the website template (screenshot capture for the design-review loop).",
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
